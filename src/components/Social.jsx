@@ -44,7 +44,7 @@ const Social = () => {
       </div>
 
       <div className=" lg:hidden bg-black">
-        <h1 className="text-[1rem] text-center p-8 text-white">
+        <h1 className="text-[1.8rem] text-center p-8 text-white">
           SOCIAL INITIATIVES
         </h1>
         <div className="text-white  flex justify-center items-center">

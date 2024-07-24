@@ -3,7 +3,7 @@ const Portfolio = () => {
     <>
       <div className="" id="portfolio">
         <div className="bg-black text-white pt-10">
-          <h1 className="text-[1rem] md:text-[2rem] text-center pb-16">
+          <h1 className="text-[1.8rem] md:text-[2rem] text-center pb-16">
             LOOKBOOK
           </h1>
 

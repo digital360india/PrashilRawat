@@ -26,7 +26,7 @@ const Newsletter = () => {
     <>
       <div>
         <div className="bg-black pt-12">
-          <h1 className="text-[1.5rem] md:text-[2rem] text-[#FFFFFF] text-center">
+          <h1 className="text-[1.8rem] md:text-[2rem] text-[#FFFFFF] text-center">
             NEWSLETTER
           </h1>
 

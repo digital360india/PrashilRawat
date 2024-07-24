@@ -171,13 +171,6 @@ const Work = () => {
         </div>
       </div>
 
-
-
-
-
-
-
-
       <div className="  lg:hidden">
         <div
           id="work"
@@ -204,7 +197,28 @@ const Work = () => {
             IMDB: 7.1/10
           </p>
 
-          <h2 className="text-[1.5rem] md:text-[1.9rem] mb-4 px-4 text-center">
+          <div className="flex justify-center items-center gap-10 p-5 ">
+            <div className="flex-col ">
+              <h1 className="text-[1.5rem] px-4">Music Video</h1> <br />
+              <p className="text-[0.9rem]  px-4">
+                Prashil Rawat&apos;s video song &quot;Vandemataram&quot; was
+                beautifully captured and picturized in the movie &quot;72 Hours:
+                Martyr Who Never Died.&quot; The song reminds us of the love and
+                sacrifice of a martyr for his motherland. <br />
+                The song has been written and directed by Avinash Dhyani, and
+                produced by JS Rawat, Tarun Rawat, and Prashil Rawat.
+              </p>
+              <div className="flex justify-center items-center">
+
+            <div className="w-[17.125rem] h-[17.5rem] pt-5 ">
+              <img src="image 5.svg" alt="img" />
+            </div>
+              </div>
+            </div>
+
+          </div>
+
+          <h2 className="text-[1.5rem] md:text-[1.9rem] mb-4 px-4 text-center p-5">
             LIFESTYLE
           </h2>
           <div className="mb-8">
