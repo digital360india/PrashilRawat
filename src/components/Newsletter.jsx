@@ -71,11 +71,11 @@ const Newsletter = () => {
               <img src="righti.svg" alt="right arrow" width={50} height={50} />
             </div>
           </div>
-          <div className="flex justify-center items-center pt-8 pb-10 bg-black">
+          {/* <div className="flex justify-center items-center pt-8 pb-10 bg-black">
             <div className="bg-[#FF975C] rounded-3xl w-[9.813rem] h-[2.75rem] flex justify-center items-center">
               <h1 className="text-white text-[1rem]  ">Read More</h1>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </>

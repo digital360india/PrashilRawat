@@ -104,15 +104,27 @@ const Hero = () => {
         </div>
       </div> */}
 
-      <div className="w-full h-[200vh] relative">
+      <div className="md:hidden w-full flex justify-center items-center bg-black">
         <video
-          className="w-full h-full object-cover"
+          className=" object-fill"
           autoPlay
           loop
           muted
           playsInline
         >
           <source src="/ROMEO_PRASHIL_02.mov" type="video/mp4" />
+          Your browser does not support the video tag.
+        </video>
+      </div>
+      <div className=" md:block w-full flex justify-center items-center bg-black">
+        <video
+          className="w-full h-full object-center  object-fill"
+          autoPlay
+          loop
+          muted
+          playsInline
+        >
+          <source src="/video2.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
       </div>
