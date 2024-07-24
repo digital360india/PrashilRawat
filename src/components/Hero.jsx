@@ -116,7 +116,7 @@ const Hero = () => {
           Your browser does not support the video tag.
         </video>
       </div>
-      <div className=" md:block w-full flex justify-center items-center bg-black">
+      <div className="hidden md:block w-full flex justify-center items-center bg-black">
         <video
           className="w-full h-full object-center  object-fill"
           autoPlay
